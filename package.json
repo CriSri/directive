@@ -2,7 +2,7 @@
   "name": "directive",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "周全 <wb.zhouquan@mesg.corp.netease.com>",
+  "author": "cri.sri<cri.sri@yandex.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
